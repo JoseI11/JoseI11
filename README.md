@@ -1,5 +1,7 @@
 # 😎 ¡Hey! I salute you.
-<img src="https://i.postimg.cc/fyFZBWtk/Gemini-Generated-Image-4wfc3z4wfc3z4wfc.png" alt="Monoplaza de Fórmula 1" width="200" height="300"/>
+<p align="center">
+  <img src="https://i.postimg.cc/fyFZBWtk/Gemini-Generated-Image-4wfc3z4wfc3z4wfc.png" alt="Monoplaza de Fórmula 1" width="400" height="300">
+</p>
 
 
 Welcome to my paddock! 🏁🏁🏎️
