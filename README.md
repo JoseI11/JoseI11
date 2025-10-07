@@ -63,10 +63,6 @@ I'm José Imhoff, Frontend developer becoming in a Fullstack developer, focused 
   </tbody>
 </table>
 
-### My latest post(This is only the beginning)
-I compare some differences between Java Swing and Java Spring Boot with analogies from F1
-
-. https://www.linkedin.com/feed/update/urn:li:activity:7358496963056533505/
 
 ### Where to find me!!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-imhoff/)
