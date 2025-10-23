@@ -65,7 +65,7 @@ I'm José Imhoff, Frontend developer becoming in a Fullstack developer, focused 
 
 
 ### Where to find me!!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-imhoff/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseimhoff/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jose11)
 [![Portfolio](https://img.shields.io/badge/Portfolio-28A745?style=for-the-badge&logo=react&logoColor=white)](https://portfolio-imhoff.vercel.app/)
 
