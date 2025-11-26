@@ -1,7 +1,7 @@
 
 Welcome to my paddock! 🏁🏁🏎️
 <p align="center">
-  <img src="https://i.postimg.cc/fyFZBWtk/Gemini_Generated_Image_4wfc3z4wfc3z4wfc.png" alt="F1 car" width="500">
+  <img src="https://i.postimg.cc/fyFZBWtk/Gemini_Generated_Image_4wfc3z4wfc3z4wfc.png" alt="F1 car" width="400" height="300">
 </p>
 
 
