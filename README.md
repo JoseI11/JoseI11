@@ -1,5 +1,9 @@
 
 Welcome to my paddock! 🏁🏁🏎️
+<p align="center">
+  <img src="https://i.postimg.cc/fyFZBWtk/Gemini_Generated_Image_4wfc3z4wfc3z4wfc.png" alt="F1 car" width="500">
+</p>
+
 
 I'm José Imhoff, Frontend developer becoming in a Fullstack developer, focused on creating different web applications. My approach to development is like a Formula 1 race: I believe in meticulous preparation, optimizing every line of code for efficiency, and working seamlessly with the team to cross the finish line with a winning product.
 
