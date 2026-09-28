@@ -5,19 +5,26 @@
 <h1 align="center">Welcome to my paddock! 🏁🏎️</h1>
 
 <p align="center">
-  <i>Full Stack Developer · React · Next.js · TypeScript · Node.js</i>
+  <i>Web Developer (React/Next.js) building real products for local businesses in Argentina 🇦🇷. Open to Junior roles + freelance.</i>
 </p>
 
 ## 🏎️ About me
 
-I'm **José Imhoff**, a Full Stack Developer based in Rafaela, Argentina 🇦🇷, moving from a Frontend specialization into full Full Stack territory. I build web apps and digital solutions that help businesses optimize their processes and grow their online presence — from customer-facing platforms to backend integrations and internal automation.
+I'm José Imhoff, a Web Developer based in Rafaela, Argentina 🇦🇷, focused on 
+React and Next.js. I build web apps and digital solutions that help businesses 
+optimize their processes and grow their online presence — from customer-facing 
+platforms to process automation. I also explored backend fundamentals (Java, 
+Spring Boot, Python) to better understand how full applications work end-to-end.
 
-My approach to development is like a Formula 1 race: meticulous preparation, optimizing every line of code for efficiency, and working closely with the team to cross the finish line with a solid product.
+My approach to development is like a Formula 1 race: meticulous preparation, 
+optimizing every line of code for efficiency, and working closely with the 
+team to cross the finish line with a solid product.
 
-🔧 Currently freelancing, building with **React / Next.js** and diving into **WordPress / Elementor** for client sites — open to remote Frontend / Full Stack opportunities.
+🔧 Currently freelancing, building with React / Next.js and diving into 
+WordPress / Elementor for client sites — open to remote Web Developer / 
+Frontend opportunities, and freelance projects.
 
-📫 Portfolio: [dev.joseimhoff.com](https://dev.joseimhoff.com) · English level: B2
-
+📫 Portfolio: dev.joseimhoff.com · English level: B2
 ## 🖥️💻 My mechanic team (Tech Stack)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
