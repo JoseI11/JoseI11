@@ -36,27 +36,13 @@ Frontend opportunities, and freelance projects.
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![WordPress](https://img.shields.io/badge/wordpress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
-
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
+*Also worked with: Node.js, Express, PHP, Firebase, PostgreSQL, MySQL, MongoDB, Docker, Prisma, Swagger*
 ## 🏆 Highlighted races (Projects)
-
 <table>
   <thead>
     <tr>
@@ -66,10 +52,6 @@ Frontend opportunities, and freelance projects.
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/JoseI11/order-managment-system-solve-test"><b>Order Management System</b></a><br/>(technical test)</td>
-      <td>Full stack order management system built to a defined stack: <b>Node.js + TypeScript + Express + Prisma ORM</b> over PostgreSQL, API documented with <b>Swagger</b> and containerized with <b>Docker</b>. Responsive frontend in <b>Angular + Angular Material</b>.</td>
-    </tr>
-    <tr>
       <td><b>Electro Rafaela — Product Catalog</b></td>
       <td>Storefront built with <b>Next.js</b> + <b>Firebase Realtime Database</b>, with in-memory caching for local filtering/search to avoid repeated reads. <b>500+ products</b> published. Lighthouse: Desktop Performance 92 / SEO 100.</td>
     </tr>
@@ -78,14 +60,14 @@ Frontend opportunities, and freelance projects.
       <td>Digitized student registration and reporting for a local gym using <b>Google Forms, Sheets & Apps Script</b>. Automated individual/general reports and connected pricing dynamically to the site, cutting manual admin work.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/JoseI11/InterviewTest-ImhoffJose"><b>Interview Test</b></a></td>
-      <td>Full-stack insurance policy manager: REST API with <b>Express</b> consumed by a <b>React.js</b> frontend, built following clean architecture practices.</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/JoseI11/c17-11-t-node-react"><b>Mascocuidado</b></a></td>
       <td>Online platform connecting pet owners with caregivers, built as a group project with Node.js and React.</td>
     </tr>
-  </tbody>
+    <tr>
+      <td><a href="https://github.com/JoseI11/InterviewTest-ImhoffJose"><b>Interview Test</b></a></td>
+      <td>Full-stack insurance policy manager: REST API with <b>Express</b> consumed by a <b>React.js</b> frontend, built following clean architecture practices.</td>
+    </tr>
+</tbody>
 </table>
 
 ## 🏁 Where to find me!
